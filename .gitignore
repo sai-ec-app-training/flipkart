@@ -1,4 +1,4 @@
 .classpath
 .project
-/nodes_modules/
-
+nodes_modules/
+:wq
